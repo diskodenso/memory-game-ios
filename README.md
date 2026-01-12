@@ -66,24 +66,21 @@ Die Persistenz-Logik befindet sich in:
 
 ## Features
 
-### Pflichtfeatures (Belegaufgabe)
-- ✅ 2x4 Grid-Layout mit dynamischer Anpassung
-- ✅ 3D Flip-Animation für Karten
-- ✅ Timer startet bei erstem Kartentipp
-- ✅ Automatische Match-Erkennung
-- ✅ Gewinn-Alert mit Zeitanzeige
-- ✅ Persistente Highscore-Speicherung (alle Ergebnisse)
-- ✅ Dark Mode Unterstützung
+- 2x4 Grid-Layout mit dynamischer Anpassung
+- 3D Flip-Animation für Karten
+- Timer startet bei erstem Kartentipp
+- Automatische Match-Erkennung
+- Gewinn-Alert mit Zeitanzeige
+- Persistente Highscore-Speicherung (alle Ergebnisse)
+- Dark Mode Unterstützung
 
-### Bonus-Features
-- ✅ **Highscore-Ansicht**: Vollständige Liste aller gespeicherten Ergebnisse mit Rankings
-- ✅ **App-Lifecycle-Handling**: Timer pausiert automatisch im Hintergrund ("Race to Sleep")
-- ✅ **Trophy-Icons**: Visualisierung der Top 3 Plätze in der Highscore-Liste
-- ✅ **Responsive Design**: Optimiert für iPhone 17 Pro
+- **Highscore-Ansicht**: Vollständige Liste aller gespeicherten Ergebnisse mit Rankings
+- **App-Lifecycle-Handling**: Timer pausiert automatisch im Hintergrund ("Race to Sleep")
+- **Trophy-Icons**: Visualisierung der Top 3 Plätze in der Highscore-Liste
+- **Responsive Design**: Optimiert für iPhone 17 Pro
 
 ## Bedienung
 
 1. **Spiel starten**: Tippe auf eine beliebige Karte - der Timer startet automatisch
 2. **Highscores ansehen**: Tippe auf das 🏆-Icon oben rechts
-3. **Neues Spiel**: Nutze den "Neues Spiel" Button nach Spielende oder während des Spiels
 
